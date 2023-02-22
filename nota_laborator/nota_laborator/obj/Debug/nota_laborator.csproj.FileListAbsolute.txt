@@ -1,0 +1,11 @@
+F:\NORBI\nota_laborator\nota_laborator\obj\Debug\nota_laborator.csproj.AssemblyReference.cache
+F:\NORBI\nota_laborator\nota_laborator\obj\Debug\nota_laborator.csproj.SuggestedBindingRedirects.cache
+F:\NORBI\nota_laborator\nota_laborator\obj\Debug\nota_laborator.Form1.resources
+F:\NORBI\nota_laborator\nota_laborator\obj\Debug\nota_laborator.Properties.Resources.resources
+F:\NORBI\nota_laborator\nota_laborator\obj\Debug\nota_laborator.csproj.GenerateResource.cache
+F:\NORBI\nota_laborator\nota_laborator\obj\Debug\nota_laborator.csproj.CoreCompileInputs.cache
+F:\NORBI\nota_laborator\nota_laborator\bin\Debug\nota_laborator.exe.config
+F:\NORBI\nota_laborator\nota_laborator\bin\Debug\nota_laborator.exe
+F:\NORBI\nota_laborator\nota_laborator\bin\Debug\nota_laborator.pdb
+F:\NORBI\nota_laborator\nota_laborator\obj\Debug\nota_laborator.exe
+F:\NORBI\nota_laborator\nota_laborator\obj\Debug\nota_laborator.pdb
